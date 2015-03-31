@@ -1,0 +1,25 @@
+__NOTOC__
+
+===Competitor Logo===
+Logo of the competitor.
+
+====Additional Information====
+An image can be uploaded by the user to represent a competitor. The competitor logo is also displayed for activities if no activity picture is uploaded by the user.
+
+====Usage====
+
+{|
+! Application
+! Area
+! Tooltip
+|-
+| rowspan="2" | Jupiter Competitive
+| Competitor
+| |Supported file formats: PNG, JPEG, GIF. Recommended dimensions: 144 x 144 pixels<sup>1</sup>.
+|-
+| Calendars
+| N/A
+|}
+
+====See also====
+[[Timeliness Status]]
