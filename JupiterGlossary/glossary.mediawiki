@@ -1,6 +1,6 @@
 ==Jupiter Glossary==
 
-'''2 For'''<br>
+'''[[/JupiterGlossary/Glossary/BOGO.mediawiki|2 For]]'''<br>
 A type of price point in which two identical products are sold at a specified price. Not to be confused with [[/JupiterGlossary/Glossary/BOGO.mediawiki|BOGO]].
 
 ----
@@ -45,7 +45,7 @@ See also: Coupon Type.
 
 ----
 '''BOGO'''<br>
-Buy one, get one free. A type of price point in which a consumer buys one product and gets a second one for free. Not to be confused with 2 For.
+Buy one, get one free. A type of price point in which a consumer buys one product and gets a second one for free. Not to be confused with [[/JupiterGlossary/Glossary/BOGO.mediawiki|2 For]].
 
 ----
 '''Bounceback'''<br>
