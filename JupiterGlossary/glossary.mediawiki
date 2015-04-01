@@ -1,0 +1,394 @@
+==Jupiter Glossary==
+
+'''2 For'''<br>
+A type of price point in which two identical products are sold at a specified price. Not to be confused with BOGO.
+
+----
+'''3rd Party Coupon'''<br>
+A coupon distributed via a tie-in partner.
+<br>
+See also: Coupon Type.
+
+----
+'''30s'''<br>
+A 30-second TV commercial.
+
+----
+'''AACM'''<br>
+African American Consumer Market. Consumer group that includes the consumers of African-American ethnicity.
+<br>
+See also: Consumer Segment. 
+
+----
+'''ACM'''<br>
+Asian Consumer Market. Consumer segment that includes the consumers of Asian-American ethnicity.
+<br>
+See also: Consumer Segment.
+
+----
+'''Activity Picture'''<br>
+Image representing the promotional activity.
+
+----
+'''Activity Type'''<br>
+Type of promotion offered by the competitor.
+
+----
+'''Average Price (Indicator Type)'''<br>
+An indicator of the average price of specified products in specified geography and restaurant types. 
+
+----
+'''Be Our Guest'''<br>
+A coupon distributed at events.
+<br>
+See also: Coupon Type.
+
+----
+'''BOGO'''<br>
+Buy one, get one free. A type of price point in which a consumer buys one product and gets a second one for free. Not to be confused with 2 For.
+
+----
+'''Bounceback'''<br>
+A coupon offered at the time of purchase that gives customers a discount on a future purchase.
+<br>
+See also: Coupon Type.
+
+----
+'''Bundled Price'''<br>
+A type of price point in which several different products are sold together at a discounted price. 
+
+----
+'''Buy and Get a Discount'''<br>
+A type of price point in which a consumer purchases a product and gets a different product at a discounted price. 
+
+----
+'''Buy and Get Free'''<br>
+A type of price point in which a consumer purchases a product and gets a different product for free.
+
+----
+'''C-Rate'''<br>
+Local market contribution rate to OPNAD.
+
+----
+'''Competitive Activity'''<br>
+A promotion offered by a competitor.
+
+----
+'''Competitor Logo'''<br>
+Logo of the competitor.
+
+----
+'''Consumer Segment'''<br>
+A group of consumers created based on ethnicity.
+
+----
+'''Coupon Expiration Date'''<br>
+Date when the validity of a coupon ends.
+
+----
+'''Coupon Type'''<br>
+Type of coupon distributed to support a promotion.
+
+----
+'''Data Entry Report'''<br>
+A report containing the percentage of stores that reported promotions and/or the percentage of stores that reported promotions supported by TV for a specified time period and Division.
+
+----
+'''Daypart'''<br>
+A division of the day defined by the type of meal usually served during a particular time interval.
+
+----
+'''Day Specific'''<br>
+A promotion or event that is offered only on certain days.
+
+----
+'''Detailed Promotion Name'''<br>
+Descriptive name for the promotion.
+
+----
+'''Digital Coupon'''<br>
+A coupon distributed to the consumer digitally, i.e. a digital banner ad.
+<br>
+See also: Coupon Type.
+
+----
+'''Direct Mail'''<br>
+A coupon distributed via direct mail.
+<br>
+See also: Coupon Type.
+
+----
+'''Discounted Price'''<br>
+A type of price point in which a product is sold at a specific short-term discounted price.
+
+----
+'''Division'''<br>
+See Zone.
+
+----
+'''Door Hanger'''<br>
+A coupon distributed directly to the consumer's home via door hangers.
+<br>
+See also: Coupon Type.
+
+----
+'''Drop Quantity'''<br>
+Number of coupons to be distributed for the promotion.
+
+----
+'''Drop Start Date'''<br>
+Date when the distribution of a coupon begins.
+
+----
+'''E-coupon'''<br>
+A coupon distributed via email.
+<br>
+See also: Coupon Type.
+
+----
+'''EID'''<br>
+Electronic identification number required to access Jupiter.
+
+----
+'''End Date'''<br>
+Date when a promotion, or the media support for a promotion ends.
+
+----
+'''Field Vote Date'''<br>
+The date when a promotion saved as pending will be approved.
+
+----
+'''Flag'''<br>
+An icon that indicates whether a product has a certain property.
+
+----
+'''Free Item'''<br>
+A type of price point in which customers get a free product, no purchase required.
+
+----
+'''Frequency Card'''<br>
+A coupon with which customers receive a free product after purchasing a certain number of products.
+<br>
+See also: Coupon Type.
+
+----
+'''FSI'''<br>
+Free standing insert. A coupon distributed via newspaper inserts.
+<br>
+See also: Coupon Type.
+
+----
+'''Full Detailed Report'''<br>
+A detailed, fully customizable report with information regarding Jupiter entries.
+
+----
+'''GCM'''<br>
+General Consumer Market. Consumer segment that includes consumers of all ethnicities.
+<br>
+See also: Consumer Segment. 
+
+----
+'''Geography'''<br>
+Area covered by a promotional activity or indicator.
+
+----
+'''GRP'''<br>
+Gross rating point. An advertising indicator used to measure the total exposures produced by a media campaign.
+
+----
+'''Guest Counts (Indicator Type)'''<br>
+The number of customers in specified geography and restaurant types.
+
+----
+'''HCM'''<br>
+Hispanic Consumer Market. Consumer segment that includes the consumers of Hispanic-American ethnicity.
+<br>
+See also: Consumer Segment. 
+
+----
+'''Indicator Type'''<br>
+Data measured by an indicator.
+
+----
+'''Limited Time Only'''<br>
+A product that is available only for a limited period of time.
+
+----
+'''Local Support of OPNAD'''<br>
+Media support is the local support for an OPNAD promotion taking place during the same time period. Abbreviated as LSOP.
+
+----
+'''Market'''<br>
+The lowest level in the three-level geographic organization of the US, representing an area covered by the same group of TV stations (typically a metropolitan area). A Market is part of a Region.
+
+----
+'''Marketing (GRPs) (Indicator Type)'''<br>
+An indicator of the number of gross rating points (GRPs) running for specified products and media vehicles in specified geography and restaurant types. 
+
+----
+'''McDApp Offer'''<br>
+A coupon distributed via the McD App smartphone applications.
+<br>
+See also: Coupon Type.
+
+----
+'''Media Calendar Category'''<br>
+A group of products created from a media/advertising perspective.
+
+----
+'''Media Reach Goal'''<br>
+An indicator of the targeted audience size for a promotion.
+
+----
+'''Media Vehicle'''<br>
+Type of mass media used to support the promotion.
+
+----
+'''Mobile Coupon'''<br>
+A coupon distributed to the consumer via mobile phone.
+<br>
+See also: Coupon Type.
+
+----
+'''My Defaults'''<br>
+A default selection of options that a user can customize and use when creating indicators.
+
+----
+'''No Price'''<br>
+A type of price point in which a product is advertised without an offer of any kind.
+
+----
+'''Observed In'''<br>
+Areas where a competitive activity has been observed.
+
+----
+'''One-Day Event'''<br>
+A promotional event that takes place over a single day.
+
+----
+'''OOH'''<br>
+Out-of-home advertising. A type of media vehicle that includes all forms of advertising that reach the consumer outside the home.
+<br>
+See also: Media Vehicle.
+
+----
+'''OPNAD'''<br>
+Operator's National Advertising Fund. A fund set up by McDonald's and Owner/Operators to purchase national television advertising.
+
+----
+'''Other (Price Point Type)'''<br>
+A type of price point used to promote non-food products or brand messages.
+
+----
+'''POP'''<br>
+Point of purchase. The place where a transaction is completed, i.e. the restaurant.
+
+----
+'''Price Point Type'''<br>
+Type of price offer used for the promotion.
+
+----
+'''Product Category'''<br>
+A group of similar products.
+
+----
+'''Promotion Support'''<br>
+Marketing activities that support a promotion.
+
+----
+'''Region'''<br>
+The second level in the three-level geographic organization of the US. A Region is part of a Zone, and contains several Markets.
+
+----
+'''Regular Advertised Price'''<br>
+A type of price point that represents a standard, long-term pricing strategy.
+
+----
+'''ROD'''<br>
+Rest of day. Products sold outside breakfast hours.
+<br>
+See also: Media Calendar Category.
+
+----
+'''ROP'''<br>
+Restaurant Order Proposal. An automated ordering system at the restaurant level.
+
+----
+'''Sales (Indicator Type)'''<br>
+The sum of receipts from specified restaurant types and geography.
+
+----
+'''Short Promotion Name'''<br>
+Short name for the promotion.
+
+----
+'''Store Group'''<br>
+A grouping of restaurants created based on the type of facility in which restaurants operate.
+
+----
+'''System Goal'''<br>
+The Jupiter-targeted media calendar category mix, as percentage of total GRPs to allocate to each media calendar category. 
+
+----
+'''Start Date'''<br>
+Date when a promotion, or the media support for a promotion begins.
+
+----
+'''Target Audience'''<br>
+Age group targeted by the media support of a promotion. 
+
+----
+'''Teaser'''<br>
+Media support that begins before the start date of the promotion.
+
+----
+'''Test Product'''<br>
+A not yet launched product that a competitor is testing.
+
+----
+'''Time Specific'''<br>
+A promotion that is offered only at certain times.
+
+----
+'''Timeliness Status'''<br>
+Jupiter calculation indicating the percentage of promotions approved at least 30 days in advance of the promotion start date.
+
+----
+'''Top 30 Report'''<br>
+A report that provides GRP details for specified Media Calendar Categories and for specified geography.
+
+----
+'''Transferred from Calendar'''<br>
+A promotion created on the Calendar page of Jupiter Marketing (Add Media Event).
+
+----
+'''TV Activity Report Summary'''<br>
+A report that provides the percentage of stores that support specified product categories or products with television during specified months.
+
+----
+'''Units Per Thousand (UPTs) (Indicator Type)'''<br>
+An indicator of the number of specified products sold per 1,000 customers in specified geography and restaurant types.
+
+----
+'''Units Sold (Indicator Type)'''<br>
+The number of items of specified products sold in specified geography and restaurant types. 
+
+----
+'''Upcoming Event'''<br>
+A promotional activity that will take place in the near future, and for which the start date is unknown.
+
+----
+'''Vehicle Report'''<br>
+A report that provides for each media vehicle type the percentage and the number of stores that support specified product categories or products during a specified time period using a specified media vehicle.
+
+----
+'''YAG'''<br>
+Year ago. Used to compare local media mix calendar data with the same period from the previous year.
+
+----
+'''YTD'''<br>
+Year-to-Date. The period of time between the beginning of the current year and the present date.
+
+----
+'''Zone'''<br>
+The top level in the 3-level geographic organization of the US. A zone contains several Regions.
