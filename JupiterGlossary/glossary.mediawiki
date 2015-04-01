@@ -67,7 +67,7 @@ A type of price point in which a consumer purchases a product and gets a differe
 
 ----
 '''[[/JupiterGlossary/Glossary/.mediawiki|C-Rate]]'''<br>
-Local market contribution rate to OPNAD.
+Local market contribution rate to [[/JupiterGlossary/Glossary/OPNAD.mediawiki|OPNAD]].
 
 ----
 '''[[/JupiterGlossary/Glossary/.mediawiki|Competitive Activity]]'''<br>
@@ -219,7 +219,7 @@ Media support is the local support for an OPNAD promotion taking place during th
 
 ----
 '''[[/JupiterGlossary/Glossary/.mediawiki|Market]]'''<br>
-The lowest level in the three-level geographic organization of the US, representing an area covered by the same group of TV stations (typically a metropolitan area). A Market is part of a Region.
+The lowest level in the three-level geographic organization of the US, representing an area covered by the same group of TV stations (typically a metropolitan area). A Market is part of a  [[/JupiterGlossary/Glossary/Region.mediawiki|Region]].
 
 ----
 '''[[/JupiterGlossary/Glossary/.mediawiki|Marketing (GRPs) (Indicator Type)]]'''<br>
@@ -297,7 +297,7 @@ Marketing activities that support a promotion.
 
 ----
 '''[[/JupiterGlossary/Glossary/.mediawiki|Region]]'''<br>
-The second level in the three-level geographic organization of the US. A Region is part of a Zone, and contains several Markets.
+The second level in the three-level geographic organization of the US. A Region is part of a [[/JupiterGlossary/Glossary/Zone.mediawiki|Zone]], and contains several [[/JupiterGlossary/Glossary/Market.mediawiki|Markets]].
 
 ----
 '''[[/JupiterGlossary/Glossary/.mediawiki|Regular Advertised Price]]'''<br>
@@ -391,4 +391,4 @@ Year-to-Date. The period of time between the beginning of the current year and t
 
 ----
 '''[[/JupiterGlossary/Glossary/.mediawiki|Zone]]'''<br>
-The top level in the 3-level geographic organization of the US. A zone contains several Regions.
+The top level in the 3-level geographic organization of the US. A zone contains several [[/JupiterGlossary/Glossary/Region.mediawiki|Regions]].
