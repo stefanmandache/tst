@@ -1,0 +1,10 @@
+__NOTOC__
+
+===2 For===
+A type of price point in which two identical products are sold at a specified price. Not to be confused with [[BOGO]].
+
+=====Tooltip=====
+Select "2 For" when the promotion features two products at a special price (i.e. 2 Egg McMuffin sandwiches for $3.33).
+
+=====See also=====
+[[Price Point Type]]
