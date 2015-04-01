@@ -1,7 +1,7 @@
 ==Jupiter Glossary==
 
 '''2 For'''<br>
-A type of price point in which two identical products are sold at a specified price. Not to be confused with [[/Glossary/BOGO.mediawiki|BOGO]].
+A type of price point in which two identical products are sold at a specified price. Not to be confused with [[/JupiterGlossary/Glossary/BOGO.mediawiki|BOGO]].
 
 ----
 '''3rd Party Coupon'''<br>
