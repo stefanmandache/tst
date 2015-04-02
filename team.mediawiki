@@ -1,1 +1,732 @@
 
+{| style="border-spacing:0;"
+| <center>'''Face'''</center>
+| <center>'''Name'''</center>
+| <center>'''Birthday'''</center>
+| <center>'''Position'''</center>
+| <center>'''Department'''</center>
+| <center>'''Joined'''</center>
+
+<center>Kalon</center>
+
+|-
+| colspan="6"  style="background-color:#e0f0ff;border:0.05pt solid #dddddd;padding-top:0.185cm;padding-bottom:0.185cm;padding-left:0.265cm;padding-right:0.265cm;"| <center>'''CEO'''</center>
+
+|-
+| [[Image:/pics/Mike.png]]
+| <center>Michael Koch</center>
+
+<center><br>[mailto:michael.koch@kalon.ro michael.koch@kalon.ro]<br>+1-917-566-0450</center>
+| <center>26 Dec 1977</center>
+| <center>Chairman & CEO</center>
+| <center>CEO</center>
+| <center>07 Jan 2014</center>
+
+|-
+| colspan="6"  style="background-color:#e0f0ff;border:0.05pt solid #dddddd;padding-top:0.185cm;padding-bottom:0.185cm;padding-left:0.265cm;padding-right:0.265cm;"| <center>'''Program Management'''</center>
+
+|-
+| [[Image:/pics/Alex-S.png?]]
+| <center>Alexandru Simion</center>
+
+<center><br>[mailto:alexandru.simion@kalon.ro alexandru.simion@kalon.ro]<br>0742.479.520</center>
+| <center>02 Mar 1982</center>
+| <center>Project Manager</center>
+| <center>Program Management</center>
+| <center>12 Mar 2014</center>
+
+|-
+| [[Image:/pics/eugen%20Baicea.jpg]]
+| <center>Eugen Baicea</center>
+
+<center><br>[mailto:eugen.baicea@kalon.ro eugen.baicea@kalon.ro]<br>0727.811.761</center>
+| <center>23 Mar 1982</center>
+| <center>Agile Project Manager</center>
+| <center>Program Management</center>
+| <center>02 Dec 2014</center>
+
+
+
+
+|-
+| [[Image:/pics/marina.jpg]]
+| <center>Marina Balan</center>
+
+<center><br>[mailto:marina.balan@kalon.ro marina.balan@kalon.ro]<br>0725.328.758</center>
+| <center>25 Jun 1993</center>
+| <center>Support Project Manager</center>
+| <center>Program Management</center>
+| <center>02 Dec 2014</center>
+
+|-
+| [[Image:/pics/razvan%20dica.jpg]]
+| <center>Razvan Dica</center>
+
+<center><br>[mailto:razvan.dica@kalon.ro razvan.dica@kalon.ro]<br>0734.319.008</center>
+| <center>18 Nov 1984</center>
+| <center>Agile Project Manager</center>
+| <center>Program Management</center>
+| <center>10 Feb 2015</center>
+
+|-
+| colspan="6"  style="background-color:#e0f0ff;border:0.05pt solid #dddddd;padding-top:0.185cm;padding-bottom:0.185cm;padding-left:0.265cm;padding-right:0.265cm;"| <center>'''Backend Development'''</center>
+
+|-
+| [[Image:/pics/Adrian-Punga.png]]
+| <center>Adrian Punga</center>
+
+<center><br>[mailto:adrian.punga@kalon.ro adrian.punga@kalon.ro]<br>0724.058.582</center>
+
+
+
+| <center>21 Jan 1980</center>
+| <center>Head of TechnologyandBackend Development</center>
+| <center>Backend Development</center>
+| <center>20 Jan 2014</center>
+
+|-
+| [[Image:/pics/Silviu-C.png]]
+| <center>Silviu Corhan</center>
+
+<center><br>[mailto:silviu.corhan@kalon.ro silviu.corhan@kalon.ro]<br>0722.565.894</center>
+| <center>27 Apr 1988</center>
+| <center>Mobile Developer</center>
+| <center>Backend Development</center>
+| <center>07 Apr 2014</center>
+
+|-
+| [[Image:/pics/Alin-A.png]]
+| <center>Alin Alexa</center>
+
+<center><br>[mailto:alin.alexa@kalon.ro alin.alexa@kalon.ro]<br>0734.355.173</center>
+| <center>27 Aug 1986</center>
+| <center>Backend Developer</center>
+| <center>Backend Development</center>
+| <center>05 May 2014</center>
+
+|-
+| [[Image:/pics/Dragos.png]]
+| <center>Dragos Bulugean</center>
+
+<center><br>[mailto:dragos.bulugean@kalon.ro dragos.bulugean@kalon.ro]<br>0767.816.758</center>
+| <center>01 Sep 1988</center>
+| <center>Senior Backend Developer</center>
+| <center>Backend Development</center>
+| <center>12 May 2014</center>
+
+|-
+| [[Image:/pics/Bogdan-Z.png]]
+| <center>Bogdan Zaharia</center>
+
+<center><br>[mailto:bogdan.zaharia@kalon.ro bogdan.zaharia@kalon.ro]<br>0727 723 558</center>
+| <center>17 Dec 1986</center>
+| <center>Backend Developer</center>
+| <center>Backend Development</center>
+| <center>12 May 2014</center>
+
+|-
+| [[Image:/pics/Marian.png]]
+| <center>Marian Danscoi</center>
+
+<center><br>[mailto:marian.danscoi@kalon.ro marian.danscoi@kalon.ro]<br>0752.177.783</center>
+
+
+
+| <center>01 Jan 1979</center>
+| <center>Backend Developer</center>
+| <center>Backend Development</center>
+
+
+
+| <center>23 Jun 2014</center>
+
+|-
+| [[Image:/pics/Liviu.png]]
+| <center>Liviu Danicel</center>
+
+<center><br>[mailto:liviu.danicel@kalon.ro liviu.danicel@kalon.ro]<br>0723 147 722</center>
+| <center>14 Jun 1985</center>
+| <center>Senior System Administrator</center>
+| <center>Backend Development</center>
+
+
+
+| <center>14 Jul 2014</center>
+
+|-
+| [[Image:/pics/Ionut.png]]
+| <center>Ionut Georgescu</center>
+
+<center><br>[mailto:ionut.georgescu@kalon.ro ionut.georgescu@kalon.ro]<br>0725.692.204</center>
+| <center>04 Sep 1986</center>
+| <center>Senior Backend Developer</center>
+| <center>Backend Development</center>
+| <center>14 Jul 2014</center>
+
+|-
+| [[Image:/pics/mm.jpg]]
+| <center>Marius Marin</center>
+
+<center><br>[mailto:marius.marin@kalon.ro marius.marin@kalon.ro]<br>0720.333.085</center>
+| <center>04 May 1977</center>
+
+
+
+| <center>Senior Backend Developer</center>
+| <center>Backend Development</center>
+| <center>04 Aug 2014</center>
+
+|-
+| [[Image:/pics/ana%20stoica.jpg]]
+| <center>Ana Maria Stoica</center>
+
+<center><br>[mailto:ana.stoica@kalon.ro ana.stoica@kalon.ro]<br>0721.463.560</center>
+| <center>06 Feb 1991</center>
+| <center>Mobile Developer</center>
+| <center>Backend Development</center>
+| <center>18 Aug 2014</center>
+
+|-
+| [[Image:/pics/diana%20m.jpg]]
+| <center>Diana Mihai</center>
+
+<center><br>[mailto:diana.mihai@kalon.ro diana.mihai@kalon.ro]<br>0746.089.044</center>
+
+
+
+| <center>21 Jun 1992</center>
+| <center>Mobile Developer</center>
+| <center>Backend Development</center>
+| <center>18 Aug 2014</center>
+
+|-
+| [[Image:/pics/valentin%20visan.jpg]]
+| <center>Valentin Visan</center>
+
+<center><br>[mailto:valentin.visan@kalon.ro valentin.visan@kalon.ro]<br>0724.008.087</center>
+
+
+
+| <center>08 May 1990</center>
+| <center>Backend Developer</center>
+| <center>Backend Development</center>
+| <center>18 Aug 2014</center>
+
+|-
+| [[Image:/pics/Matei.png]]
+| <center>Matei Trusca</center>
+
+<center><br>[mailto:matei.trusca@kalon.ro matei.trusca@kalon.ro]<br>0736.661.927</center>
+| <center>05 Jan 1986</center>
+| <center>Backend Developer</center>
+| <center>Backend Development</center>
+| <center>06 Aug 2014</center>
+
+|-
+| [[Image:/pics/dan%20c.jpg]]
+| <center>Dan Costenco</center>
+
+<center><br>[mailto:dan.costenco@kalon.ro dan.costenco@kalon.ro]<br>0724.294.047</center>
+| <center>21 Dec 1983</center>
+| <center>Junior System Administrator</center>
+| <center>Backend Development</center>
+
+
+
+| <center>27 Aug 2014</center>
+
+|-
+| [[Image:/pics/RaduIancu.jpg]]
+| <center>Radu Florin Iancu</center>
+
+<center><br>[mailto:radu.iancu@kalon.ro radu.iancu@kalon.ro]<br>0724.001.035</center>
+| <center>09 Apr 1987</center>
+| <center>Senior Mobile Developer</center>
+| <center>Backend Development</center>
+| <center>22 Sep 2014</center>
+
+|-
+| [[Image:/pics/maria.png.jpg]]
+| <center>Maria Nita</center>
+
+<center><br>[mailto:maria.nita@kalon.ro maria.nita@kalon.ro]<br>0727.180.443</center>
+| <center>13 Sep 1989</center>
+| <center>Senior DevOps Engineer</center>
+| <center>Backend Development</center>
+| <center>09 Jan 2015</center>
+
+|-
+| [[Image:/pics/ciprian.jpg]]
+| <center>Ciprian Simion</center>
+
+<center><br>[mailto:ciprian.simion@kalon.ro ciprian.simion@kalon.ro]<br>0727.389.702</center>
+
+
+
+| <center>08 Jul 1974</center>
+| <center>System Administrator</center>
+| <center>Backend Development</center>
+| <center>10 Mar 2015</center>
+
+|-
+| colspan="6"  style="background-color:#e0f0ff;border:0.05pt solid #dddddd;padding-top:0.185cm;padding-bottom:0.185cm;padding-left:0.265cm;padding-right:0.265cm;"| <center>'''Frontend Development'''</center>
+
+|-
+| [[Image:/pics/armin.jpg]]
+| <center>Armin Rosu</center>
+
+<center><br>[mailto:armin.rosu@kalon.ro armin.rosu@kalon.ro]<br>0770.418.866</center>
+| <center>29 Aug 1986</center>
+| <center>Head of Frontend Development</center>
+| <center>Frontend Development</center>
+| <center>07 Jan 2014</center>
+
+|-
+| [[Image:/pics/Iulian.png]]
+| <center>Iulian Pobleanu</center>
+
+<center><br>[mailto:iulian.pobleanu@kalon.ro iulian.pobleanu@kalon.ro]<br>0768.402.603</center>
+| <center>12 Sep 1983</center>
+| <center>Frontend Developer</center>
+| <center>Frontend Development</center>
+| <center>16 Jun 2014</center>
+
+|-
+| [[Image:/pics/valeriuuuuuu.jpg]]
+| <center>Valeriu Cucu</center>
+
+<center><br>[mailto:valeriu.cucu@kalon.ro valeriu.cucu@kalon.ro]<br>0720.266.630</center>
+| <center>17 Nov 1987</center>
+| <center>Frontend Developer</center>
+| <center>Frontend Development</center>
+| <center>28 Jul 2014</center>
+
+|-
+| [[Image:/pics/adrian%20olaru.jpg]]
+| <center>Adrian Olaru</center>
+
+<center><br>[mailto:adrian.olaru@kalon.ro adrian.olaru@kalon.ro]<br>0752.181.086</center>
+| <center>04 Feb 1984</center>
+| <center>Frontend Developer</center>
+
+
+
+| <center>Frontend Development</center>
+| <center>01 Sep 2014</center>
+
+|-
+| [[Image:/pics/adi%20gheorghe.png]]
+| <center>Adrian Gheorghe</center>
+
+<center><br>[mailto:adrian.gheorghe@kalon.ro adrian.gheorghe@kalon.ro]<br>0721.378.195</center>
+| <center>17 Feb 1983</center>
+| <center>Frontend Developer</center>
+| <center>Frontend Development</center>
+| <center>16 Oct 2014</center>
+
+|-
+| [[Image:/pics/marian%20cojoc%20%20%20.jpg]]
+| <center>Marian Cojoc</center>
+
+<center><br>[mailto:marian.cojoc@kalon.ro marian.cojoc@kalon.ro]<br>0743.143.936</center>
+| <center>08 Sep 1984</center>
+| <center>Frontend Developer</center>
+| <center>Frontend Development</center>
+| <center>29 Oct 2014</center>
+
+|-
+| [[Image:/pics/vali%20tureac.jpg]]
+| <center>Valentin Tureac</center>
+
+<center><br>[mailto:valentin.tureac@kalon.ro valentin.tureac@kalon.ro]<br>0720.254.955</center>
+| <center>22 Oct 1992</center>
+| <center>Frontend Developer</center>
+| <center>Frontend Development</center>
+| <center>26 Nov 2014</center>
+
+|-
+| [[Image:/pics/mihail%20subtirelu.jpg]]
+| <center>Mihail Subtirelu</center>
+
+<center><br>[mailto:mihail.subtirelu@kalon.ro mihail.subtirelu@kalon.ro]<br>0762.277.372</center>
+| <center>02 Oct 1989</center>
+| <center>Frontend Developer</center>
+| <center>Frontend Development</center>
+| <center>17 Nov 2014</center>
+
+|-
+| [[Image:/pics/gabriel%20totoliciu.jpg]]
+| <center>Gabriel Totoliciu</center>
+
+<center><br>[mailto:gabriel.totliciu@kalon.ro gabriel.totliciu@kalon.ro]<br>0747.224.991</center>
+| <center>25 Feb 1988</center>
+
+
+
+| <center>Frontend Developer</center>
+| <center>Frontend Development</center>
+| <center>08 Dec 2014</center>
+
+|-
+| [[Image:/pics/mihnea%20belcin.jpg]]
+| <center>Mihnea Belcin</center>
+
+<center><br>[mailto:mihnea.belcin@kalon.ro mihnea.belcin@kalon.ro]<br>0722.288.973</center>
+| <center>19 Jan 1985</center>
+| <center>Frontend Developer</center>
+| <center>Frontend Development</center>
+| <center>08 Dec 2014</center>
+
+|-
+| [[Image:/pics/20150302_1411071.jpg]]
+| <center>Sabin Tudor</center>
+
+<center><br>[mailto:sabin.tudor@kalon.ro sabin.tudor@kalon.ro]<br>0748.896.737</center>
+| <center>07 Aug 1988</center>
+| <center>Frontend Developer</center>
+| <center>Frontend Developer</center>
+| <center>02 Mar 2015</center>
+
+|-
+| [[Image:/pics/radu%20ppp.jpg]]
+| <center>Radu Paraschiv</center>
+
+<center><br>[mailto:radu.paraschiv@kalon.ro radu.paraschiv@kalon.ro]<br>0749.981.220</center>
+
+
+
+| <center>03 Jun 1988</center>
+| <center>Frontend Developer</center>
+| <center>Frontend Developer</center>
+| <center>03 Mar 2015</center>
+
+|-
+| colspan="6"  style="background-color:#e0f0ff;border:0.05pt solid #dddddd;padding-top:0.185cm;padding-bottom:0.185cm;padding-left:0.265cm;padding-right:0.265cm;"| <center>'''User Experience'''</center>
+
+|-
+| [[Image:/pics/David-Iftime.png]]
+| <center>David Iftime[mailto:david.iftime@kalon.ro david.iftime@kalon.ro]<br>0729.729.739</center>
+
+
+
+| <center>09 Jul 1985</center>
+| <center>Head of User Experience</center>
+| <center>User Experience</center>
+| <center>07 Jan 2014</center>
+
+|-
+| [[Image:/pics/cosmin%20neagu.jpg]]
+| <center>Cosmin Neagu</center>
+
+<center><br>[mailto:cosmin.neagu@kalon.ro cosmin.neagu@kalon.ro]<br></center>
+| <center>05 Aug 1981</center>
+| <center>Senior Visual Designer</center>
+| <center>User Experience</center>
+| <center>18 Aug 2014</center>
+
+|-
+| [[Image:/pics/Nicu.png]]
+| <center>Nicolae Balan<br>[mailto:nicolae.balan@kalon.ro nicolae.balan@kalon.ro]<br>0741.070.937</center>
+| <center>15 Jan 1985</center>
+| <center>Visual Designer</center>
+| <center>User Experience</center>
+| <center>07 Apr 2014</center>
+
+|-
+| [[Image:/pics/Florin.png]]
+| <center>Florin Totea<br>[mailto:florin.totea@kalon.ro<br> florin.totea@kalon.ro]<br></center>
+
+<center>0723.577.200</center>
+
+
+
+| <center>07 Apr 1979</center>
+
+
+
+| <center>UX Designer</center>
+| <center>User Experience</center>
+| <center>14 Apr 2014</center>
+
+|-
+| [[Image:/pics/Mela.png]]
+| <center>Melania Lupu<br>[mailto:melania.lupu@kalon.ro<br> melania.lupu@kalon.ro]<br>0726.653.735</center>
+
+
+
+| <center>03 Apr 1985</center>
+| <center>Visual Designer</center>
+| <center>User Experience</center>
+| <center>28 Apr 2014</center>
+
+|-
+| [[Image:/pics/Stefan-M.png]]
+| <center>Stefan Mandache<br>[mailto:stefan.mandache@kalon.ro<br> stefan.mandache@kalon.ro]<br>0740.271.736</center>
+| <center>14 Jul 1982</center>
+| <center>Senior Technical Writer</center>
+| <center>User Experience</center>
+| <center>21 May 2014</center>
+
+|-
+| [[Image:/pics/IMG_0932_oana.png]]
+| <center>Oana Secara<br>[mailto:oana.secara@kalon.ro oana.secara@kalon.ro]<br>0723.180.997</center>
+| <center>17 Feb 1986</center>
+| <center>UX Designer</center>
+| <center>User Experience</center>
+| <center>14 Jul 2014</center>
+
+|-
+| [[Image:/pics/vlad.jpg]]
+| <center>Vlad Paloiu</center>
+
+<center><br>[mailto:vlad.paloiu@kalon.ro vlad.paloiu@kalon.ro]<br>0753.220.133</center>
+| <center>07 Oct 1988</center>
+| <center>Visual Designer</center>
+| <center>User Experience</center>
+| <center>25 Aug 2014</center>
+
+|-
+| [[Image:/pics/ovidiu.jpg]]
+| <center>Ovidiu Boc</center>
+
+<center><br>[mailto:ovidiu.boc@kalon.ro ovidiu.boc@kalon.ro]<br>0723.199.907</center>
+| <center>31 Jul 1982</center>
+| <center>Senior UX Designer</center>
+| <center>User Experience</center>
+| <center>10 Sep 2014</center>
+
+|-
+| [[Image:/pics/alex%20oda.jpg]]
+| <center>Alexandru Oda</center>
+
+<center><br>[mailto:alex.oda@kalon.ro alex.oda@kalon.ro]<br>0730.667.665</center>
+| <center>29 Aug 1985</center>
+| <center>UX Designer</center>
+| <center>User Experience</center>
+| <center>15 Sep 2014</center>
+
+|-
+| [[Image:/pics/adrian%20stoian.jpg]]
+| <center>Adrian Stoian</center>
+
+<center><br>[mailto:adrian.stoian@kalon.ro adrian.stoian@kalon.ro]<br>0729.742.742</center>
+| <center>05 Apr 1991</center>
+| <center>Visual Designer</center>
+| <center>User Experience</center>
+| <center>16 Sep 2014</center>
+
+|-
+| [[Image:/pics/poza_Adrian_Grajdeanu.png]]
+| <center>Adrian Grajdeanu</center>
+
+<center><br>[mailto:adrian.grajdeanu@kalon.ro adrian.grajdeanu@kalon.ro]<br>0726.716.268</center>
+| <center>27 Jun 1985</center>
+| <center>Art Director</center>
+| <center>User Experience</center>
+| <center>29 Sep 2014</center>
+
+|-
+| [[Image:/pics/mihaiii%20raiciu.jpg]]
+| <center>Mihai Raiciu</center>
+
+<center><br>[mailto:mihai.raiciu@kalon.ro mihai.raiciu@kalon.ro]<br>0766.405.521</center>
+| <center>29 Aug 1989</center>
+
+
+
+| <center>Game Designer</center>
+| <center>User Experience</center>
+| <center>29 Sep 2014</center>
+
+|-
+| [[Image:/pics/Doru%20animatoru.jpg]]
+| <center>Doru Dorneanu</center>
+
+<center><br>[mailto:doru.dorneanu@kalon.ro doru.dorneanu@kalon.ro]<br>0746.120.279</center>
+| <center>03 Jun 1971</center>
+| <center>Visual Designer</center>
+| <center>User Experience</center>
+| <center>14 Oct 2014</center>
+
+|-
+| [[Image:/pics/Dan.png]]
+| <center>Dan Nistor</center>
+
+<center><br>[mailto:dan.nistor@kalon.ro dan.nistor@kalon.ro]<br>0723.713.969</center>
+| <center>30 Oct 1986</center>
+| <center>Visual Designer</center>
+| <center>User Experience</center>
+| <center>27 Oct 2014</center>
+
+|-
+| [[Image:/pics/liviu%20maxim.jpg]]
+| <center>Liviu Maxim</center>
+
+<center><br>[mailto:liviu.maxim@kalon.ro liviu.maxim@kalon.ro]<br>0757.486.733</center>
+| <center>06 Sep 1987</center>
+| <center>Senior UX Designer</center>
+| <center>User Experience</center>
+| <center>08 Dec 2014</center>
+
+|-
+| [[Image:/pics/radu%20mocanu%20mic.jpg]]
+| <center>Radu Mocanu</center>
+
+<center><br>[mailto:radu.mocanu@kalon.ro radu.mocanu@kalon.ro]<br>0766.601.601</center>
+| <center>04 Aug 1989</center>
+
+
+
+| <center>2D Game Artist</center>
+| <center>User Experience</center>
+| <center>23 Feb 2015</center>
+
+|-
+| colspan="6"  style="background-color:#e0f0ff;border:0.05pt solid #dddddd;padding-top:0.185cm;padding-bottom:0.185cm;padding-left:0.265cm;padding-right:0.265cm;"| <center>'''Quality Assurance'''</center>
+
+|-
+| [[Image:/pics/Adrian-Stoica.png]]
+| <center>Adrian Stoica</center>
+
+<center><br>[mailto:adrian.stoica@kalon.ro adrian.stoica@kalon.ro]<br>0729.940.011</center>
+| <center>12 Jul 1987</center>
+| <center>Head of Quality Assurance</center>
+| <center>Quality Assurance</center>
+| <center>28 Apr 2014</center>
+
+|-
+| [[Image:/pics/Silviu-S.png]]
+| <center>Silviu Stan</center>
+
+<center><br>[mailto:silviu.stan@kalon.ro silviu.stan@kalon.ro]<br>0727.569.714</center>
+| <center>02 Jun 1990</center>
+| <center>QA Engineer</center>
+| <center>Quality Assurance</center>
+
+
+
+| <center>16 Jun 2014</center>
+
+|-
+| [[Image:/pics/Mihai-S.png]]
+| <center>Mihai Sora</center>
+
+<center><br>[mailto:mihai.sora@kalon.ro mihai.sora@kalon.ro]<br>0766 492 328</center>
+
+
+
+| <center>10 Apr 1987</center>
+| <center>QA Engineer</center>
+| <center>Quality Assurance</center>
+| <center>30 Jun 2014</center>
+
+|-
+| [[Image:/pics/Stefan-T.png]]
+| <center>Stefan Tihan</center>
+
+<center><br>[mailto:stefan.tihan@kalon.ro stefan.tihan@kalon.ro]<br>0747.414.577</center>
+| <center>10 Apr 1985</center>
+| <center>QA Engineer</center>
+| <center>Quality Assurance</center>
+| <center>21 Jul 2014</center>
+
+|-
+| [[Image:/pics/0e468d7.jpg]]
+| <center>Ovidiu Curcuta</center>
+
+<center><br>[mailto:ovidiu.curcuta@kalon.ro ovidiu.curcuta@kalon.ro]<br>0737.364.442</center>
+| <center>15 Feb 1987</center>
+| <center>QA Engineer</center>
+| <center>Quality Assurance</center>
+| <center>11 Aug 2014</center>
+
+|-
+| [[Image:/pics/2100b68.jpg]]
+| <center>Alexandru Rusu</center>
+
+<center><br>[mailto:alexandru.rusu@kalon.ro alexandru.rusu@kalon.ro]<br>0732.458.470</center>
+| <center>31 Dec 1982</center>
+| <center>QA Engineer</center>
+| <center>Quality Assurance</center>
+| <center>03 Nov 2014</center>
+
+|-
+| [[Image:/pics/andrei%20leica.jpg]]
+| <center>Andrei Leica</center>
+
+<center><br>[mailto:andrei.leica@kalon.ro andrei.leica@kalon.ro]<br>0740.122.081</center>
+| <center>25 Mar 1990</center>
+| <center>QA Engineer</center>
+| <center>Quality Assurance</center>
+| <center>17 Nov 2014</center>
+
+|-
+| [[Image:/pics/talmaci.jpg]]
+| <center>Alexandru Talmaci</center>
+
+<center><br>[mailto:alexandru.talmaci@kalon.ro alexandru.talmaci@kalon.ro]<br>0745.757.338</center>
+| <center>10 Apr 1982</center>
+| <center>QA Engineer</center>
+| <center>Quality Assurance</center>
+| <center>12 Jan 2015</center>
+
+|-
+| colspan="6"  style="background-color:#e0f0ff;border:0.05pt solid #dddddd;padding-top:0.185cm;padding-bottom:0.185cm;padding-left:0.265cm;padding-right:0.265cm;"| <center>'''Operations'''</center>
+
+|-
+| [[Image:/pics/Marius-Militaru.png]]
+| <center>Marius Militaru</center>
+
+<center><br>[mailto:marius.militaru@kalon.ro marius.militaru@kalon.ro]<br>0722.623.166</center>
+| <center>16 Aug 1979</center>
+| <center>Head of Operations</center>
+| <center>Operations</center>
+| <center>03 Mar 2014</center>
+
+|-
+| [[Image:/pics/Simo.png]]
+| <center>Simona Meltzer</center>
+
+<center><br>[mailto:simona.meltzer@kalon.ro simona.meltzer@kalon.ro]<br>0722.466.666</center>
+
+
+
+| <center>03 Mar 1969</center>
+| <center>Office Manager</center>
+| <center>Operations</center>
+| <center>24 Mar 2014</center>
+
+|-
+| [[Image:/pics/Flori.png]]
+| <center>Florentina Stanciu<br>[mailto:florentina.stanciu@kalon.ro florentina.stanciu@kalon.ro]<br>0741.545.908</center>
+| <center>27 Jul 1989</center>
+| <center>Office and HR Support</center>
+| <center>Operations</center>
+| <center>01 Apr 2014</center>
+
+|-
+| [[Image:/pics/Gabriela.png]]
+| <center>Gabriela Dan</center>
+
+<center><br>[mailto:gabriela.dan@kalon.ro gabriela.dan@kalon.ro]<br>0756.121.412</center>
+| <center>29 Sep 1979</center>
+| <center>HR Partner</center>
+| 
+| 
+
+|-
+| [[Image:/pics/FullSizeRender.jpg]]
+| <center>Alexandra Calina</center>
+
+<center><br>[mailto:alexandra.calina@kalon.ro alexandra.calina@kalon.ro]<br>0755.391.459</center>
+| <center>21 Feb 1989</center>
+
+
+
+| <center>Asistent manager</center>
+| <center>Operations</center>
+| <center>22 Jan 201</center>
+
+|}
+
+
